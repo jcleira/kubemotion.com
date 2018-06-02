@@ -1,0 +1,101 @@
+body {
+  border: 0;
+  color: #1d2d35;
+  font-family: Graphik;
+  margin: 0 6vw 0 6vw;
+}
+
+h1 {
+  font-family: 'Graphik';
+  font-weight: 700;
+  font-size: 9vw;
+  letter-spacing: -0.07em;
+  line-height: 0.875;
+}
+
+h2 {
+  display: block;
+  font-family: 'Graphik';
+  font-weight: 700;
+}
+
+footer {
+  font-size: 1vw;
+}
+
+p {
+  font-size: 4vw;
+}
+
+.button {
+  margin-left: 1.hw;
+  font-size: 4vw;
+}
+
+@media (min-width: 576px) {
+  p {
+    font-size: 4vw;
+  }
+}
+
+.navbar {
+ width: 100%;
+}
+
+@media (min-width: 992px) {
+  h1 {
+    font-size: 7.5vw;
+  }
+
+  p {
+    font-size: 2vw;
+  }
+
+  .our-clients p {
+    font-size: 1.4vw;
+  }
+
+  .button {
+    font-size: 2vw;
+  }
+}
+
+.brand-logo {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.mt-2 {
+  margin-top: 2vh;
+}
+
+.mt-5 {
+  margin-top: 5vh;
+}
+
+.mt-10 {
+  margin-top: 10vh;
+}
+.mt-20 {
+  margin-top: 20vh;
+}
+
+.responsive {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  vertical-align: middle
+}
+
+.our-clients img {
+  display: block;
+  width: 100%;
+  height: auto;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.our-clients p {
+  text-align: center;
+}
