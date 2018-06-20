@@ -1,0 +1,3 @@
+[submodule "themes/kubemotion"]
+	path = themes/kubemotion
+	url = git@github.com:kubemotion/hugo-template.git
