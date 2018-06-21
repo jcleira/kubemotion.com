@@ -1,4 +1,4 @@
-baseURL = "https://www.kubemotion.com"
+baseURL = "https://www.kubemotion.com/"
 languageCode = "es-ES"
 title = "Kubemotion - Despliegue y Formación de Kubernetes"
 theme = "kubemotion"
